@@ -1,0 +1,29 @@
+{
+  "name": "app-rand",
+  "version": "1.0.0",
+  "description": "rand app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benfizr/app-rand.git"
+  },
+  "dependencies": {
+    "richy13-app": "1.0.0",
+    "tea_belfort717": "1.0.0",
+    "benfizr-teapp": "1.0.0",
+    "tea_genius": "1.0.0",
+    "tea-enthusiast": "1.0.0",
+    "tea717app": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benfizr/app-rand/issues"
+  },
+  "homepage": "https://github.com/benfizr/app-rand#readme"
+}
